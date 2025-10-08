@@ -107,20 +107,6 @@
         </li>
     </ul>
 
-    <h2>GitHub Pages Publishing</h2>
-    <p>To host this portfolio on GitHub Pages:</p>
-    <ol>
-        <li>Create a new repository named <code>shalini-portfolio</code> (or <code>shalinifatehpuriya.github.io</code> for a user site).</li>
-        <li>Upload all files and folders from this package to the repository root.</li>
-        <li>Go to <strong>Settings → Pages</strong>, select <strong>main</strong> branch and <strong>/ (root)</strong> folder as the publishing source.</li>
-        <li>Wait a minute, then visit: <code>https://&lt;your-username&gt;.github.io/&lt;repo-name&gt;/</code></li>
-    </ol>
-
-    <h2>Notes</h2>
-    <ul>
-        <li>Replace <code>assets/img/profile.jpg</code> with your real photo (keep same filename) if desired.</li>
-        <li>Edit HTML files to personalize your content.</li>
-    </ul>
 </main>
 
 <footer>
